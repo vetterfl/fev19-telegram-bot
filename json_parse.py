@@ -137,15 +137,15 @@ def findNext(s):
 def main():
 
     # use saved json for testing
-    with open(dataDir + "/mese_FEV19_nextweek.json", "r") as f:
-        t_sched = parseJSON(f)
+    #with open(dataDir + "/mese_FEV19_nextweek.json", "r") as f:
+    #    t_sched = parseJSON(f)
 
 
     # construct request URL:
     url = 'https://mese.webuntis.com/WebUntis/api/public/timetable/weekly/data?elementType=1&elementId=954&date={0}&formatId=1'.format(getMonday())
 
     # get all the data
-    #t_sched = parseJSON(getJSON(url))
+    t_sched = parseJSON(getJSON(url))
     if 'Error' in t_sched: # check for error and exit
         print("error: {0}".format(t_sched['Error']['msg']))
         exit()
