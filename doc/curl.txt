@@ -1,0 +1,20 @@
+https://mese.webuntis.com/WebUntis/api/public/timetable/weekly/data?elementType=1&elementId=954&date=2019-12-08&formatId=1
+
+
+
+GET /WebUntis/api/public/timetable/weekly/data?elementType=1&elementId=954&date=2019-12-08&formatId=1 HTTP/1.1
+Host: mese.webuntis.com
+Connection: keep-alive
+Accept: application/json
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Referer: https://mese.webuntis.com/WebUntis/?school=emil-possehl-schule
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,de;q=0.8
+Cookie: schoolname="_ZW1pbC1wb3NzZWhsLXNjaHVsZQ=="; traceId=e7263d3d1371d3e2fe8babe7cb0f72cfc6431c37; JSESSIONID=0A07F8816A7F5AD9FC9C7E6033B66865
+
+
+
+
+curl 'https://mese.webuntis.com/WebUntis/api/public/timetable/weekly/data?elementType=1&elementId=954&date=2019-12-11&formatId=1' -H 'Connection: keep-alive' -H 'Accept: application/json' -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36' -H 'Sec-Fetch-Site: same-origin' -H 'Sec-Fetch-Mode: cors' -H 'Referer: https://mese.webuntis.com/WebUntis/?school=emil-possehl-schule' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language: en-US,en;q=0.9,de;q=0.8' -H 'Cookie: schoolname="_ZW1pbC1wb3NzZWhsLXNjaHVsZQ=="' --compressed > mese_FEV19-test.txt

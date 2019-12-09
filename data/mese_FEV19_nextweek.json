@@ -1,0 +1,1592 @@
+{
+    "data": {
+        "result": {
+            "data": {
+                "noDetails": false,
+                "elementIds": [
+                    954
+                ],
+                "elementPeriods": {
+                    "954": [
+                        {
+                            "id": 708123,
+                            "lessonId": 10704,
+                            "lessonNumber": 19900,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191213,
+                            "startTime": 1330,
+                            "endTime": 1415,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 8,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 17,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 708124,
+                            "lessonId": 10704,
+                            "lessonNumber": 19900,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191213,
+                            "startTime": 1415,
+                            "endTime": 1500,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 8,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 17,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 709229,
+                            "lessonId": 10719,
+                            "lessonNumber": 54300,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191210,
+                            "startTime": 950,
+                            "endTime": 1035,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 9,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 50,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 709230,
+                            "lessonId": 10719,
+                            "lessonNumber": 54300,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191210,
+                            "startTime": 1035,
+                            "endTime": 1120,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 9,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 50,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 712515,
+                            "lessonId": 10756,
+                            "lessonNumber": 20100,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191210,
+                            "startTime": 1140,
+                            "endTime": 1225,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 14,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 24,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 712516,
+                            "lessonId": 10756,
+                            "lessonNumber": 20100,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191210,
+                            "startTime": 1225,
+                            "endTime": 1310,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 14,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 24,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 714619,
+                            "lessonId": 10784,
+                            "lessonNumber": 39700,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191211,
+                            "startTime": 1140,
+                            "endTime": 1225,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 19,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 10,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 120,
+                            "cellState": "CANCEL",
+                            "priority": 8,
+                            "is": {
+                                "cancelled": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 714620,
+                            "lessonId": 10784,
+                            "lessonNumber": 39700,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191211,
+                            "startTime": 1225,
+                            "endTime": 1310,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 19,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 10,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 120,
+                            "cellState": "CANCEL",
+                            "priority": 8,
+                            "is": {
+                                "cancelled": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 714621,
+                            "lessonId": 10784,
+                            "lessonNumber": 39700,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191211,
+                            "startTime": 1330,
+                            "endTime": 1415,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 19,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 10,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "SUBSTITUTION",
+                            "priority": 3,
+                            "is": {
+                                "substitution": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 714622,
+                            "lessonId": 10784,
+                            "lessonNumber": 39700,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191211,
+                            "startTime": 1415,
+                            "endTime": 1500,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 19,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 10,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "SUBSTITUTION",
+                            "priority": 3,
+                            "is": {
+                                "substitution": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 716391,
+                            "lessonId": 10808,
+                            "lessonNumber": 20000,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191209,
+                            "startTime": 950,
+                            "endTime": 1035,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 22,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 24,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 716392,
+                            "lessonId": 10808,
+                            "lessonNumber": 20000,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191209,
+                            "startTime": 1035,
+                            "endTime": 1120,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 22,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 24,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 721294,
+                            "lessonId": 10883,
+                            "lessonNumber": 20200,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191212,
+                            "startTime": 1140,
+                            "endTime": 1225,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 24,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 14,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 721295,
+                            "lessonId": 10883,
+                            "lessonNumber": 20200,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191212,
+                            "startTime": 1225,
+                            "endTime": 1310,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 24,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 14,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 721296,
+                            "lessonId": 10883,
+                            "lessonNumber": 20200,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191212,
+                            "startTime": 1330,
+                            "endTime": 1415,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 24,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 14,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 721297,
+                            "lessonId": 10883,
+                            "lessonNumber": 20200,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191212,
+                            "startTime": 1415,
+                            "endTime": 1500,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 24,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 14,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 721298,
+                            "lessonId": 10883,
+                            "lessonNumber": 20200,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191213,
+                            "startTime": 1140,
+                            "endTime": 1225,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 24,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 17,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 721299,
+                            "lessonId": 10883,
+                            "lessonNumber": 20200,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191213,
+                            "startTime": 1225,
+                            "endTime": 1310,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 24,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 17,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 761967,
+                            "lessonId": 11148,
+                            "lessonNumber": 54100,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191210,
+                            "startTime": 1330,
+                            "endTime": 1415,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 70,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 23,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 761968,
+                            "lessonId": 11148,
+                            "lessonNumber": 54100,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191210,
+                            "startTime": 1415,
+                            "endTime": 1500,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 70,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 23,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 761969,
+                            "lessonId": 11148,
+                            "lessonNumber": 54100,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191212,
+                            "startTime": 950,
+                            "endTime": 1035,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 70,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 23,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 761970,
+                            "lessonId": 11148,
+                            "lessonNumber": 54100,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191212,
+                            "startTime": 1035,
+                            "endTime": 1120,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 70,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 23,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 775204,
+                            "lessonId": 11208,
+                            "lessonNumber": 65100,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191211,
+                            "startTime": 950,
+                            "endTime": 1035,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 78,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 45,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 775205,
+                            "lessonId": 11208,
+                            "lessonNumber": 65100,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191211,
+                            "startTime": 1035,
+                            "endTime": 1120,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 78,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 45,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 806595,
+                            "lessonId": 11410,
+                            "lessonNumber": 19800,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191213,
+                            "startTime": 845,
+                            "endTime": 930,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 100,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 17,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 806596,
+                            "lessonId": 11410,
+                            "lessonNumber": 19800,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191213,
+                            "startTime": 950,
+                            "endTime": 1035,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 100,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 17,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 806597,
+                            "lessonId": 11410,
+                            "lessonNumber": 19800,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191213,
+                            "startTime": 1035,
+                            "endTime": 1120,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 100,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 17,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 834587,
+                            "lessonId": 11452,
+                            "lessonNumber": 54200,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191209,
+                            "startTime": 1140,
+                            "endTime": 1225,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 105,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 24,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 834588,
+                            "lessonId": 11452,
+                            "lessonNumber": 54200,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191209,
+                            "startTime": 1225,
+                            "endTime": 1310,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 105,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 4,
+                                    "id": 24,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 834691,
+                            "lessonId": 11607,
+                            "lessonNumber": 145800,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191211,
+                            "startTime": 800,
+                            "endTime": 845,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 123,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        },
+                        {
+                            "id": 834692,
+                            "lessonId": 11607,
+                            "lessonNumber": 145800,
+                            "lessonCode": "UNTIS_LESSON",
+                            "lessonText": "",
+                            "periodText": "",
+                            "hasPeriodText": false,
+                            "date": 20191211,
+                            "startTime": 845,
+                            "endTime": 930,
+                            "elements": [
+                                {
+                                    "type": 1,
+                                    "id": 954,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                },
+                                {
+                                    "type": 3,
+                                    "id": 123,
+                                    "orgId": 0,
+                                    "missing": false,
+                                    "state": "REGULAR"
+                                }
+                            ],
+                            "hasInfo": false,
+                            "code": 0,
+                            "cellState": "STANDARD",
+                            "priority": 5,
+                            "is": {
+                                "standard": true,
+                                "event": false
+                            },
+                            "roomCapacity": 0,
+                            "studentCount": 0
+                        }
+                    ]
+                },
+                "elements": [
+                    {
+                        "type": 4,
+                        "id": 23,
+                        "name": "E205",
+                        "longName": "Klassenraum_FOS",
+                        "displayname": "E205",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    },
+                    {
+                        "type": 3,
+                        "id": 8,
+                        "name": "BW",
+                        "longName": "Betriebswirtschaftslehre",
+                        "displayname": "BW",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    },
+                    {
+                        "type": 3,
+                        "id": 24,
+                        "name": "ET",
+                        "longName": "Elektrotechnik",
+                        "displayname": "ET",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    },
+                    {
+                        "type": 4,
+                        "id": 24,
+                        "name": "E206",
+                        "longName": "Klassenraum_BOS",
+                        "displayname": "E206",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    },
+                    {
+                        "type": 3,
+                        "id": 9,
+                        "name": "Chem",
+                        "longName": "Chemie",
+                        "displayname": "Chem",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    },
+                    {
+                        "type": 3,
+                        "id": 105,
+                        "name": "wipo",
+                        "longName": "wipo",
+                        "displayname": "wipo",
+                        "alternatename": "",
+                        "backColor": "#d66b29",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    },
+                    {
+                        "type": 4,
+                        "id": 17,
+                        "name": "E114",
+                        "longName": "Oberstufenlabor_24",
+                        "displayname": "E114",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 24
+                    },
+                    {
+                        "type": 1,
+                        "id": 954,
+                        "name": "FEV19",
+                        "longName": "Fachschule Energie- und Prozessautomatisierung - Vollzeit (Unterstufe)",
+                        "displayname": "FEV19",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    },
+                    {
+                        "type": 4,
+                        "id": 50,
+                        "name": "H017",
+                        "longName": "Labor_Chemie_30",
+                        "displayname": "H017",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 30
+                    },
+                    {
+                        "type": 4,
+                        "id": 10,
+                        "name": "E103",
+                        "longName": "Labor_PC_24",
+                        "displayname": "E103",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 24
+                    },
+                    {
+                        "type": 3,
+                        "id": 19,
+                        "name": "EL",
+                        "longName": "Elektronik",
+                        "displayname": "EL",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    },
+                    {
+                        "type": 3,
+                        "id": 123,
+                        "name": "ELArbsi",
+                        "longName": "ELArbsi",
+                        "displayname": "ELArbsi",
+                        "alternatename": "",
+                        "backColor": "#d66b29",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    },
+                    {
+                        "type": 3,
+                        "id": 100,
+                        "name": "TEK",
+                        "longName": "Technische Kommunikation",
+                        "displayname": "TEK",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    },
+                    {
+                        "type": 4,
+                        "id": 45,
+                        "name": "H012",
+                        "longName": "Labor_Physik_36",
+                        "displayname": "H012",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 36
+                    },
+                    {
+                        "type": 3,
+                        "id": 14,
+                        "name": "DeuK",
+                        "longName": "Deutsch/Kommunikation",
+                        "displayname": "DeuK",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    },
+                    {
+                        "type": 3,
+                        "id": 22,
+                        "name": "Engl",
+                        "longName": "Englisch",
+                        "displayname": "Engl",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    },
+                    {
+                        "type": 3,
+                        "id": 70,
+                        "name": "Mathe",
+                        "longName": "Mathematik",
+                        "displayname": "Mathe",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    },
+                    {
+                        "type": 3,
+                        "id": 78,
+                        "name": "Physi",
+                        "longName": "Physik",
+                        "displayname": "Physi",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    },
+                    {
+                        "type": 4,
+                        "id": 14,
+                        "name": "E110",
+                        "longName": "Labor Leistungselektronik_24",
+                        "displayname": "E110",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 24
+                    }
+                ]
+            },
+            "lastImportTimestamp": 1575626536498
+        }
+    }
+}
