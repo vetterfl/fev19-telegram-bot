@@ -14,9 +14,10 @@ bot.
 """
 
 import logging
-
+import os
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import json_parse
+
 
 # Enable logging
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s',
@@ -24,8 +25,12 @@ logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s',
 
 logger = logging.getLogger(__name__)
 
-APIToken = "<token>"
 
+if os.environ.get('BOT_TOKEN'):
+    APIToken = os.environ.get('BOT_TOKEN')
+else:
+    logger.error('No Token specified! Please set environment variable "BOT_TOKEN"')
+    exit()
 
 # Define a few command handlers. These usually take the two arguments update and
 # context. Error handlers also receive the raised TelegramError object in error.
